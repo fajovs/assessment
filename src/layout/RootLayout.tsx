@@ -1,4 +1,5 @@
-import HeaderNavigation from '../components/HeaderNavigation'
+
+import HeaderNavigation from '@/sections/HeaderNavigation'
 import { Outlet } from 'react-router-dom'
 
 const RootLayout = () => {
